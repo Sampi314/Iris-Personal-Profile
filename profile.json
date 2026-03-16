@@ -1,0 +1,127 @@
+{
+  "name": {
+    "first": "Iris",
+    "last": "Phan",
+    "display": "Iris Phan",
+    "full_vietnamese": "Phan Thi Huyen Diu"
+  },
+  "headline": "Food Technology Engineer",
+  "summary": "Food Technology Engineer specialising in Food Preservation & Processing of Agricultural Products and Human Nutrition. Meticulous, methodical, and always working with a clear plan for every task. With a continuous learning mindset and a serious attitude towards work, aspiring to make meaningful contributions to projects in the food and nutrition industry. Beyond technical expertise, proficient in advanced Excel (Power Query & Power Pivot) for effective data processing and analysis in real-world work environments.",
+  "contact": {
+    "email": "irisphan314@gmail.com",
+    "phone": "0818230314",
+    "location": {
+      "city": "Ho Chi Minh City",
+      "state": "",
+      "country": "Vietnam"
+    },
+    "linkedin": "",
+    "github": "",
+    "website": ""
+  },
+  "experience": [
+    {
+      "title": "Academic Affairs Officer",
+      "company": "VTCE Education Investment & Development JSC (VTC Academy)",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_date": "2023-10",
+      "end_date": "",
+      "current": true,
+      "description": "VTC Academy – IT & Design Academy established in 2010, pioneering international-standard education.",
+      "highlights": [
+        "Developed and consolidated the system of regulations, rules, and policies related to Training.",
+        "Conducted mid-course and end-of-course surveys; compiled statistics and quality assessment reports on lecturers for each subject.",
+        "Managed training operations for ~500 students, 30+ lecturers per term.",
+        "Built teaching plans and timetables for all courses and classes.",
+        "Received, classified, archived, and managed student records.",
+        "Managed lecturer rosters, coordinated teaching invitations, assigned classes, tracked teaching hours, and calculated remuneration.",
+        "Planned and organised examinations, supervised exam processes, graded, and published results.",
+        "Handled deferrals, withdrawals, re-enrolments, re-examinations, and grade improvements.",
+        "Organised graduation ceremonies, diploma presentations, project defences, class/course reviews, and specialised seminars."
+      ]
+    },
+    {
+      "title": "Training Department Staff",
+      "company": "Nutrition Research & Consulting Institute – H&H Nutrition (NRECI)",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_date": "2022-12",
+      "end_date": "2023-09",
+      "current": false,
+      "description": "One of the leading organisations in nutrition research, consulting, and services.",
+      "highlights": [
+        "Drafted, archived documents and regulations on academic affairs and training policies.",
+        "Processed and issued certificates for ~200 trainees per month.",
+        "Compiled administrative reports and proposed measures to improve course quality.",
+        "Conducted regular lecturer evaluations; managed 6–10 courses simultaneously.",
+        "Built teaching plans and timetables for all courses and classes.",
+        "Planned and organised examinations, supervised, graded, and published results."
+      ]
+    },
+    {
+      "title": "Content Contributor",
+      "company": "H&H Services Co., Ltd",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_date": "2022-12",
+      "end_date": "2023-10",
+      "current": false,
+      "description": "",
+      "highlights": [
+        "Wrote 8–10 articles per month about the company's nutrition products.",
+        "Created content on fundamental nutrition knowledge for customers."
+      ]
+    },
+    {
+      "title": "Intern – Food Nutrition Officer",
+      "company": "MT Food Import-Export Trading & Manufacturing Co., Ltd (Yuthfarm)",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_date": "2022-07",
+      "end_date": "2022-09",
+      "current": false,
+      "description": "A bridge company supplying fresh Vegetables & Fruits from farms to domestic and international customers.",
+      "highlights": [
+        "Researched and documented product nutritional content for labelling purposes.",
+        "Designed 15 nutritional Vegetable & Fruit combos for one person per day.",
+        "Registered self-declared quality certifications for 2 products.",
+        "Assisted in product quality control during processing and packaging."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Nong Lam University Ho Chi Minh City",
+      "degree": "Engineer",
+      "field_of_study": "Food Technology (Major: Food Preservation & Processing of Agricultural Products & Human Nutrition)",
+      "start_date": "2018-08",
+      "end_date": "2022-12",
+      "gpa": "",
+      "honors": []
+    }
+  ],
+  "skills": {
+    "technical": ["Advanced Excel (Power Query, Power Pivot)", "Document Drafting & Management", "Class & Academic Management", "Content SEO & Writing", "Fan Page Administration", "Quality Inspection & Control"],
+    "languages": ["Vietnamese (Native)", "English (Basic)"],
+    "tools": ["Microsoft Office (Word, Excel, PowerPoint)"],
+    "soft_skills": ["Teamwork", "Communication & Presentation", "Time Management", "Problem Solving"]
+  },
+  "certifications": [
+    "Pedagogical Professional Development – Hanoi National University of Education (2024)"
+  ],
+  "projects": [],
+  "publications": [],
+  "awards": [
+    "Outstanding Editor – NLO Editorial Board (2021)",
+    "Outstanding Youth Union Member – University Level (2020–2021)",
+    "Five-Merit Student (2019, 2020, 2021)"
+  ],
+  "volunteer": [
+    "Editor – NLO Editorial Board, Nong Lam University (2019–2022)",
+    "Head of Communications – Spring Volunteer Campaign 2022",
+    "Head of Communications – Green Summer Campaign 2021"
+  ],
+  "interests": [],
+  "references": "Available upon request",
+  "scholarships": [
+    "Wageningen Scholarship, Netherlands (2019–2022)",
+    "Co May Dormitory Scholarship (2018–2022)"
+  ]
+}
